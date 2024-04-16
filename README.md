@@ -2,9 +2,7 @@ README
 ================
 
 This is the code used for data processing and statistical analyses in
-Flaherty, R., et al. (2024). *Diffusion MRI Findings in Hippocampal Subregions of People with Subjective Cognitive Decline*
-\[Presented at the International Society for Magnetic Resonance in Medicine Annual Meeting, 2024, Singapore\]. Department of Radiology, New
-York University School of Medicine.
+Flaherty, R., et al. (2024). *Diffusion MRI Findings in Hippocampal Subregions of People with Subjective Cognitive Decline*. Presented at the International Society for Magnetic Resonance in Medicine Annual Meeting, 2024, Singapore.
 
 ## Directions
 
