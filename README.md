@@ -36,6 +36,8 @@ script finishes before starting the next numbered script.
 The original analysis was conducted on Red Hat Enterprise Linux Server
 release 7.4.
 
+The data is availabe from the NYU Alzheimer's Disease Research Center at https://med.nyu.edu/centers-programs/alzheimers-disease-research/research/resources-researchers/request-resources
+
 ## License
 Shield: [![CC BY-SA
 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
